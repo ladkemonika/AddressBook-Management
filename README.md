@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Qt AddressBook Application
 
 This is a simple AddressBook management application written in C++ using the Qt framework (Qt 5 or Qt 6 Widgets).
@@ -47,3 +48,6 @@ Run it via the terminal:
 ## Storage Location
 The application uses `QStandardPaths` to store the data file (`contacts.json`) in an OS-appropriate application data directory.
 - On Linux typically: `~/.local/share/AddressBook/contacts.json` (or similar depending on desktop environment config).
+=======
+# AddressBook-Management
+>>>>>>> 90185481373b140fdc090e14f13a2b6b3c0b73e9
